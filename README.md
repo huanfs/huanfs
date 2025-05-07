@@ -53,3 +53,7 @@
 <img src="https://raw.githubusercontent.com/huanfs/huanfs/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="left">Sou estudante de Desenvolvimento Full Stack, Moro na região Nordeste do Brasil e estou sempre em busca de evoluir como desenvolvedor e como pessoa.<br><br>Tenho muita criatividade, facilidade no aprendizado e uma comunicação clara, o que me ajuda a trabalhar bem em equipe e transformar ideias em projetos reais.<br><br>Atualmente, estou focado em aprender e criar projetos que façam a diferença, combinando front-end, back-end e muita dedicação.</p>
+
+###
